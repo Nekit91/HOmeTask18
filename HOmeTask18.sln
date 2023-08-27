@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HOmeTask18", "HOmeTask18\HOmeTask18.vcxproj", "{2096F3A6-ABF1-4E19-8F17-8A32EC8DB187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2096F3A6-ABF1-4E19-8F17-8A32EC8DB187}.Debug|x64.ActiveCfg = Debug|x64
+		{2096F3A6-ABF1-4E19-8F17-8A32EC8DB187}.Debug|x64.Build.0 = Debug|x64
+		{2096F3A6-ABF1-4E19-8F17-8A32EC8DB187}.Debug|x86.ActiveCfg = Debug|Win32
+		{2096F3A6-ABF1-4E19-8F17-8A32EC8DB187}.Debug|x86.Build.0 = Debug|Win32
+		{2096F3A6-ABF1-4E19-8F17-8A32EC8DB187}.Release|x64.ActiveCfg = Release|x64
+		{2096F3A6-ABF1-4E19-8F17-8A32EC8DB187}.Release|x64.Build.0 = Release|x64
+		{2096F3A6-ABF1-4E19-8F17-8A32EC8DB187}.Release|x86.ActiveCfg = Release|Win32
+		{2096F3A6-ABF1-4E19-8F17-8A32EC8DB187}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {608764C2-2F08-407C-AB33-89BEE3E4F623}
+	EndGlobalSection
+EndGlobal
